@@ -1,0 +1,19 @@
+04192022
+Bash Notes:
+
+Will do write bash scripts to demo for the following list :-
+1. conditions
+	if ....then
+2. loops
+	while
+	do....while
+3. case
+	case....esac
+4. select
+	select with while
+5. awk
+	bask awk structur
+	advance awk
+6. sed
+	basi sed 
+	advanced sed
